@@ -1,0 +1,14 @@
+tz\lab\controller\PatientController.class
+tz\lab\model\Patient.class
+tz\lab\controller\DashboardController.class
+tz\lab\repo\LabOrderRepository.class
+tz\lab\controller\OrderController$PaymentRequest.class
+tz\lab\config\SecurityConfig.class
+tz\lab\controller\OrderController$StatusRequest.class
+tz\lab\controller\OrderController$OrderRequest.class
+tz\lab\LaboratoryApplication.class
+tz\lab\controller\OrderController.class
+tz\lab\model\LabOrder.class
+tz\lab\controller\OrderController$ResultRequest.class
+tz\lab\controller\PatientController$PatientRequest.class
+tz\lab\repo\PatientRepository.class
